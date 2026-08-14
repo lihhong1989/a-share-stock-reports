@@ -7,5 +7,7 @@
 - [风华高科 000636](000636-fenghua-eagle-eye.html)
 - [英维克 002837｜完整联动驾驶舱](002837-yingweike-eagle-eye.html)
 - [英维克文字总结](002837-yingweike-summary.md)
+- [网宿科技 300017｜完整联动驾驶舱](300017-wangsu-eagle-eye.html)
+- [网宿科技文字总结](300017-wangsu-summary.md)
 
 报告按事实 `F`、模型线索 `C`、推断 `I`、情景假设 `H` 分层；筹码分布为模型估算，不代表真实账户或主力成本。仅供公开资料研究，不构成投资建议。
