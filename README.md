@@ -4,7 +4,8 @@
 
 - [利欧股份 002131｜深度还原六图联动版](002131-leo-eagle-eye.html)
 - [利欧股份文字总结](002131-leo-summary.md)
-- [风华高科 000636](000636-fenghua-eagle-eye.html)
+- [风华高科 000636｜完整联动驾驶舱](000636-fenghua-eagle-eye.html)
+- [风华高科文字总结](000636-fenghua-summary.md)
 - [英维克 002837｜完整联动驾驶舱](002837-yingweike-eagle-eye.html)
 - [英维克文字总结](002837-yingweike-summary.md)
 - [网宿科技 300017｜完整联动驾驶舱](300017-wangsu-eagle-eye.html)
